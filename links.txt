@@ -1,0 +1,5 @@
+https://python.langchain.com/docs/integrations/chat/huggingface
+https://instructor-embedding.github.io/
+https://huggingface.co/spaces/mteb/leaderboard
+https://huggingface.co/
+https://www.youtube.com/watch?v=dXxQ0LR-3Hg
